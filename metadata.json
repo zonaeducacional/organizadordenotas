@@ -1,0 +1,6 @@
+{
+  "name": "Diário Escolar Offline",
+  "description": "Gestão escolar privativa com processamento 100% local. Importação de Excel, lançamento de notas em 3 unidades e exportação de PDF sem uso de internet ou nuvem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
